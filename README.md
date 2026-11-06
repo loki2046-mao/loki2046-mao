@@ -4,6 +4,12 @@
 
 [个人网站](https://hiloki.ai/) · [认识我](https://hiloki.ai/about) · [公众号文章](https://hiloki.ai/articles/) · [X](https://x.com/lokichris2046)
 
+这里的 GitHub 账号是 **loki2046-mao**；网站和公众号使用 **赛博小熊猫 Loki** 这个名字。
+
+[个人网站 · 海外访问](https://hiloki.ai/) · [个人网站 · 国内访问](https://hiloki.cn/)
+
+两个域名都是我的网站，分别服务海外和国内访问，目前都以中文为主。
+
 ## 可以先看这些
 
 - [个人化界面系统](https://hiloki.ai/projects/interface-system)：把自己的审美做进每天使用的工具。另有 [35 套开源外观主题](https://github.com/loki2046-mao/loki-theme-kit)。
@@ -20,3 +26,7 @@
 作品的适用条件、已做到的部分和还没验证的地方，会跟着制作记录一起更新。
 
 [看全部作品](https://hiloki.ai/works) · [关注或联系我](https://hiloki.ai/contact/)
+
+## 可以带走的工作流
+
+[Cola Skills](https://github.com/loki2046-mao/cola-skills) 收录我的个人 Skill 工作流，实际目录数量与第三方归属在仓库 README 中说明。
