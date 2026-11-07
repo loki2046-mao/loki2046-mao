@@ -13,7 +13,7 @@
 ## 可以先看这些
 
 - [个人化界面系统](https://hiloki.ai/projects/interface-system)：把自己的审美做进每天使用的工具。另有 [35 套开源外观主题](https://github.com/loki2046-mao/loki-theme-kit)。
-- [旅行回忆 vlog](https://hiloki.ai/methods/travel-memory/)：长白山成片、返工过程，以及整理出的 [旅行剪辑 Skill](https://github.com/loki2046-mao/loki-travel-memory)。
+- [旅行回忆 vlog](https://hiloki.ai/methods/travel-memory/)：长白山制作样片、返工过程，以及整理出的 [旅行剪辑 Skill](https://github.com/loki2046-mao/loki-travel-memory)。
 - [《开弓》](https://kaigong-loki.pages.dev/)：从按住、松手、射出一箭开始的网页小游戏。
 - [InkPanda](https://hiloki.ai/projects/inkpanda)：从 AI 写长篇时遇到的困难，做出照看人物、伏笔和上下文的写作工作台。
 - [捎一份 · 礼物桌](https://hiloki.ai/projects/souvenir-table)：旅行带回一堆小礼物，让不同群里的朋友自己挑，也不重复认领。
